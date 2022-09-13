@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LTDD_UserProfile_Project</string>
+    <string name="loginsuccess">Login success</string>
+    <string name="loginfailed">Wrong email or password</string>
+</resources>
